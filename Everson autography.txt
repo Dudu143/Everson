@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Autobiography</title>
+</head>
+<body>
+    <h1>My Autobiography</h1>
+    <h2>Early Life</h2>
+    <p> My name is Everson L. ComendadorI was born in a small town and grew up in a loving family. My parents always encouraged me to pursue my dreams and supported me in every way possible.</p>
+    <h2>Education</h2>
+    <p>I attended school of JRMSU where I developed a passion for learning. I excelled in my studies and was always eager to explore new subjects.</p>
+    <h2>Career</h2>
+    <p>After completing my education, I embarked on a successful career in the tech industry. I have worked with various companies and gained valuable experience in web development.</p>
+    <h2>Interests</h2>
+    <p>Aside from my professional life, I have a keen interest in photography and travel. I love capturing moments and exploring new places whenever I get the chance.</p>
+    <h2>Future Goals</h2>
+    <p>Looking ahead, I aspire to continue growing in my career and make a positive impact in the field of technology. I also hope to travel the world and experience different cultures.</p>
+</body>
+</html>
